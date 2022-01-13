@@ -8,8 +8,9 @@
 
 ## Установка Git
 
-1. Загружаем последнюю версию Git с сайта
-[https://git-scm.com/download]
+1. Загружаем последнюю версию Git с сайта:
+
+    [https://git-scm.com/download]
 
 2. Устанавливаем с настройками по умолчанию;
 
@@ -17,6 +18,6 @@
 
 При первом использовании Git необходипо "представиться" системе. Для этого нужно ввести в терминале 2 команды:
 
-git config --global user.name «Ваше имя англ буквами»
+* git config --global user.name «Ваше имя англ буквами»
 
-git config --global user.email ваша_почта@example.com
+* git config --global user.email ваша_почта@example.com
