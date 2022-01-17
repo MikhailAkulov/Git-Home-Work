@@ -19,3 +19,10 @@
 * git config --global user.name «Ваше имя англ буквами»
 
 * git config --global user.email ваша_почта@example.com
+
+## Создание веток в Git
+
+Чтобы при создании ветки сразу на неё переключиться, можно ввести команды: 
+```
+git checkout -b <имя новой ветки>
+```
