@@ -1,7 +1,8 @@
 # Инструкция по работе с Git
 
-Подразумевается, что у вас установлена какая-либо программа - редактор исходного кода. Например, `Visual Studio Code`, версию для своей ОС можно скачать, перейдя по ссылке: [https://code.visualstudio.com/download](https://code.visualstudio.com/download) 
-![Загрузка VSC](Загрузка VSC.png)
+Подразумевается, что у вас установлена какая-либо программа - редактор исходного кода. Например, `Visual Studio Code`, версию для своей ОС можно скачать, перейдя по ссылке: [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
+
+![Загрузка VSC](DownloadVSC.jpg)
 
 и установить на компьютер.
 
